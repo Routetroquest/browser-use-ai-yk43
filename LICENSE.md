@@ -1,4 +1,4 @@
-# 
+# Intelligent Cline plugins. Avec architecture évolutive et support multilingue — optimisé pour des performances et une efficacité maximales.
 
 
 
